@@ -8,4 +8,4 @@
 * **Zepeda Juárez Alondra Nahomi**
 
 ## Description
-This repository contains 7 experimental design projects developed as part of the academic curriculum. Each project focuses on applying statistical methods and design principles within the field of Artificial Intelligence.
+This repository contains a collection of 7 experimental design projects developed during the 4th semester of the Artificial Intelligence Engineering program at UAEMex (Spring 2026).
