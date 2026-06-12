@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Frutos sal limon",
+            "Precio": "42.20"
+        },
+        {
+            "Descripcion": "Agua mineral Tehuacan",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "Churrumas",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "Bebida Fuze tea",
+            "Precio": "18.60"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "42.00",
+    "Cambio": "0.30",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene baja iluminación y algunas partes del texto están borrosas, lo que dificulta la lectura completa y precisa."
+}

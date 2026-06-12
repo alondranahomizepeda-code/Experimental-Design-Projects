@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 PTE 4PACK DOVE ORIGINAL 12/490 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "1 PZA ACEITE CANOLI 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "1 PTE ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "1 KG AZUCAR STAN. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "1 PZA CAFE LEGAL GRANEL 240/200 GR TRAD BOLSA",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/30 GR",
+            "Precio": "5.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225 GR",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "3 PZA COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "105.00"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.00"
+        },
+        {
+            "Descripcion": "2.000 KG FRIJOL JOYA F DE MAYO 1/25 KG",
+            "Precio": "112.00"
+        },
+        {
+            "Descripcion": "1 PZA GOD ANIMALS CLASICOS 5/177 GR",
+            "Precio": "44.00"
+        },
+        {
+            "Descripcion": "2 PZA GAMESA MARIAS CLASICAS 10/1 KG",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PZA GRISI JABON 150 GR ESCALA 10/1",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3.730 KG HUEVO VALGRANEL 5 ANTON",
+            "Precio": "213.00"
+        },
+        {
+            "Descripcion": "1 PZA HARINA GRANEL 1/20 KG",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 12/1.0L",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "1 CJA LECHE DESLACTOSADA BOVE 1LT",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA LECHERA 48/375GR ABRE FACIL",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2.000 GRM MAIZ PALOMERO 1/20 KG 43/44 EXP",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 1/8/200 GRS",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA MOLE ROJO MEXIUENSE 20/500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1.085 PZA POLLO ROSTIZADO KG",
+            "Precio": "110.42"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/37 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "2 PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA BUE.NOCHE DESP. 6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/500 ML SH ACE. ESCENCI",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH ANTINUODOS",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos como el total, monto pagado y cambio no son visibles en el ticket. La lectura de los productos es clara."
+}

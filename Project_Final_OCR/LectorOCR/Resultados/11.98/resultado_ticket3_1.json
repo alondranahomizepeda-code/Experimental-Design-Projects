@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "FRITAS SAL Y LIMON",
+            "Precio": "3.90"
+        },
+        {
+            "Descripcion": "AGUA MINERAL TEHUACAN",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "CERVEZAS",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "BEBIDA FUZE TEA 600",
+            "Precio": "16.60"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "642.00",
+    "Cambio": "550.30",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos textos están ligeramente borrosos, lo que dificulta la lectura precisa de ciertos detalles."
+}

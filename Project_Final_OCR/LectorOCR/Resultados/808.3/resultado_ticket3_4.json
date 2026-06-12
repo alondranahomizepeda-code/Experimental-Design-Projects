@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "SUPER KOMPRAS CENTRO",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "FRITOS SAL Y LIMON",
+            "Precio": "42.20"
+        },
+        {
+            "Descripcion": "AGUA MINERAL TEHUACAN",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "CHURRUALIS 60G",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "BEBIDA FUZE TEA 500 ML",
+            "Precio": "18.00"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "42.00",
+    "Cambio": "0.30",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen es clara, pero algunos detalles como el desglose de precios y promociones no son completamente legibles debido a la calidad de impresión del ticket."
+}

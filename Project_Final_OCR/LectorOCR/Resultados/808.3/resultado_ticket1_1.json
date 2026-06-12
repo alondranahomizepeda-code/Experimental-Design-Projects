@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Cafe Legal 24/200g Trad Bolsa",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Canelitas Exh 12/30g",
+            "Precio": "15.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225g",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Action White 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223g Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Frijol Joya F de Mayo 1/25kg",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "Dog Animalitos 5/1kg",
+            "Precio": "22.00"
+        },
+        {
+            "Descripcion": "Gamesa Marias Clasicas 20/177g",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "Grisi Jabon 10/4/150g Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Harina de Trigo 3 Est S Antoni",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Huevo Calvario Granel",
+            "Precio": "27.00"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud 290g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato C/A 10/1pz",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Laggs Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 1/12",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove Lit",
+            "Precio": "358.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375g Arte",
+            "Precio": "31.00"
+        },
+        {
+            "Descripcion": "Palomero 12/1kg Exp",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Mini Pinguino 10/18g",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 600g",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Nature Heart R Surtdo 6/200g",
+            "Precio": "75.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado Kg",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37g",
+            "Precio": "39.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Blue Noches Desp. 6/24",
+            "Precio": "64.90"
+        },
+        {
+            "Descripcion": "Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Savile 12/700ml SH Ace Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Savile 12/700ml SH Ace Escenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "Sedal 12/620ml SH Antinu",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Sedal 12/620ml SH Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "Servilleta Cuad Maxima 12/500pz",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "Sopa Moderna Hongo",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "Sopa Moderna Spaghetti",
+            "Precio": "8.50"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente visibles o cortados, lo que dificulta la lectura completa."
+}

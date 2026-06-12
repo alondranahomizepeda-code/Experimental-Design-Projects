@@ -1,0 +1,155 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "1 PTE ARROZ SCHETINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1.010 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "1 PZA AZUCAR STAN. 5KG",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/130 GR",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 KG FRIJOL JOYA F. DE MAYO 1/25 KG",
+            "Precio": "25.20"
+        },
+        {
+            "Descripcion": "1 BOL G MOD ANIMALITOS 5/1KG",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "1 PZA GAMESA MARIAS CLASICAS 20/177 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "3 PZA GRISI JABON 10/4/150 GR NEUTRO",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "1 PTE HARINA DE TRIGO 3 EST S ANTON 1",
+            "Precio": "102.50"
+        },
+        {
+            "Descripcion": "3.730 KG HUEVO CALVARIO GRANEL",
+            "Precio": "102.58"
+        },
+        {
+            "Descripcion": "1 PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 PTE KOTEX CLAS ANTIC 10/10 PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "2 PZA LECHE BOVE ENTERA 1/21/1L",
+            "Precio": "29.57"
+        },
+        {
+            "Descripcion": "1 PZA LECHE DESLACTOSADA BOVE ITL",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/8/200 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "1 BOL MOD MEXIQUENSE 20/500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20",
+            "Precio": "29.00"
+        },
+        {
+            "Descripcion": "1.085 PZA POLLO ROSTIZADO KG",
+            "Precio": "115.00"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/37 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA CREMA PHILADELPHIA 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA BUE.NOCES DESP.6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH ANTINUOS",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 PZA SEDAL 12/620ML SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "1 PZA SERVILLETA CUAD MAXIMA 12/500 PZ",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "1 BOL SOPA MODERNA HONGO",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FIVE 8/80",
+            "Precio": "17.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente legibles debido a la resolución y el tamaño del texto."
+}

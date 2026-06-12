@@ -1,0 +1,151 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Pack Dove Original 12/490 gr",
+            "Precio": "95.00"
+        },
+        {
+            "Descripcion": "Aceite Canola 946 ml",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10 kg Trad Insur",
+            "Precio": "372.00"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10 kg Super Ex",
+            "Precio": "342.00"
+        },
+        {
+            "Descripcion": "Azúcar Stan. 5 kg",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Café Legal 24/500 gr Trad Bolsa",
+            "Precio": "171.00"
+        },
+        {
+            "Descripcion": "Canela Extra 12/30 grs",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 grs",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Acción White",
+            "Precio": "105.00"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223 grs Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Flor Joyal de Mayo 1/25 kg",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Mol Animalitos 15/400 gr",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "Gamesa Marias Clasicas 10/117 gr",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Grisi Jabón 10/40 gr Neutro",
+            "Precio": "213.00"
+        },
+        {
+            "Descripcion": "Harina de Trigo San Anton 1 kg",
+            "Precio": "71.00"
+        },
+        {
+            "Descripcion": "Huevo Calvario Granel",
+            "Precio": "71.00"
+        },
+        {
+            "Descripcion": "Jitomate Virginia 1 kg",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "Lages Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove 1 lt",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375 gr Facil",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Maíz Palomero 10 kg",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Pingüino 10/80 gr",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mol Rojo Nexixtenco 20/500 gr",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "Nature Heart 1 lt",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado kg",
+            "Precio": "198.00"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/375 gr",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180 grs",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180 grs",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noches Desp. 6/24",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Sandía Baby 2.460 gr",
+            "Precio": "88.85"
+        },
+        {
+            "Descripcion": "Savile 1/700 ml H Esc Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Savile 1/700 ml H Ace Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Sedal 12/620 ml Sh Antinuous",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Sedal 12/620 ml Sh Antinuous",
+            "Precio": "63.57"
+        },
+        {
+            "Descripcion": "Servilleta Cuad Maxima 12/500 pz",
+            "Precio": "120.20"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente legibles debido a la resolución y el tamaño del texto."
+}

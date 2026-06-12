@@ -1,0 +1,99 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Grisi Jabon 10/4/150 gr neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Harina de trigo 5 estrellas",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Huevo Calvario granel",
+            "Precio": "27.90"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Kotes Clas Anato",
+            "Precio": "16.72"
+        },
+        {
+            "Descripcion": "Lags de helado durazno maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove entera 12/1.0",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Leche Escatosa Bove",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Leche Alpura Bare Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Mint Palemro",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Molino Rojo Mayonesa",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Nature Heart Te surtido",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado Kg",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Polvorones Exh",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Buen Noches",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Sandia Bay",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Savile 12/700 ml sh ace escenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "Sedal 12/620ml sh antinu",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Sedal 12/620ml sh rizos definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "Servilleta Ciao Maxima",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "Sopa Moderna Hongo",
+            "Precio": "17.00"
+        }
+    ],
+    "Total_a_Pagar": "3,802.50",
+    "Monto_Pagado": "3,804.00",
+    "Cambio": "0.33",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene baja iluminación y algunas partes del texto están borrosas, lo que dificulta la lectura precisa de ciertos datos."
+}

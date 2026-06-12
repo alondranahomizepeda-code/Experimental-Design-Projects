@@ -1,0 +1,131 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "3 PZA COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 223GS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 KG FRIJOL JOYA F. DE MAYO 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "2 BOL MOD MAMITALOS 1/15",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "2 PZA GAMESA MARIAS CLASICAS 20/177 GR",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "3 PZA GRISI JABON 150/150 GR NEUTRO",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PTE MARINELA GANSITO 1/5 S ANTON 1",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3.730 KG HUEVO CALVARIO GRANES",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "3 PTE KOTEX DIA A DIA ESCALA",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "1 BOL JUGO DEL VALLE 1/12 MARACUYA",
+            "Precio": "29.57"
+        },
+        {
+            "Descripcion": "2 PZA LECHE DE ALMENDRA 1/12",
+            "Precio": "59.14"
+        },
+        {
+            "Descripcion": "1 CAJA LECHE DESLACTOSADA BOVE 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA LECHE BOVE ARBE FACIL",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2.000 GR MAIZ PALOMERO 10/20 KG EXP",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "1 PZA RUDO KIBUSENZ 20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA TURTLE HEART TE SURTIDO 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA POLVORONES EVA 12/432 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "2 PZA QUESO CREMA PHILADELPHIA 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA BL. NOCHES DESP. 6/24 (6B)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH ANTINUODOS",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH RIZOS DEFINIDO",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "1 PZA SERVILLETA CLAD MAXIMA 12/500 PZ",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "1 BOL SOPA MODERNA HONGO",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "2 BOL SOPA MODERNA SPAGHETTI",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FIVE PACK",
+            "Precio": "40.00"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FIVE PACK UVA VERDE 10/80",
+            "Precio": "40.00"
+        }
+    ],
+    "Total_a_Pagar": "3850.57",
+    "Monto_Pagado": "3850.00",
+    "Cambio": "0.43",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero la iluminación es baja y algunos textos están ligeramente borrosos, lo que dificulta la lectura precisa de ciertos precios y descripciones."
+}

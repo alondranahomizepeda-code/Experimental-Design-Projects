@@ -1,0 +1,151 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/130 GRS",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225 GRS",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "3 PZA COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.50"
+        },
+        {
+            "Descripcion": "3.010 KG FRIJOL JOYA P. DE MAYO 1/25 KG",
+            "Precio": "66.22"
+        },
+        {
+            "Descripcion": "1 PZA MOD ANIIMALITOS 5/1KG",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "2 PZA GAMESA MARIAS CLASICAS 20/177 GR",
+            "Precio": "29.80"
+        },
+        {
+            "Descripcion": "3 PZA GRISI JABON 10/4/150 GR NEUTRO",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PTE HARINA DE TRIGO 3 ESTRE S ANTONI",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3.730 KG HUEVO CALVARIO GRANEL",
+            "Precio": "27.50"
+        },
+        {
+            "Descripcion": "3 PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "74.70"
+        },
+        {
+            "Descripcion": "3 PTE KOTEX CLAS.ANATO C/A 10/10 PZA",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 1/12",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "1 CJA LECHE DESLACTOSADA BOVE LT",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 48/375 ARBE",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "2.000 GRM MAIZ PALOMERO 1/25 KG 43.49 EXP",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/8/20 GRS",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "1 PZA MOLE ROJO MEXIQUENSE 1/6/500 GR",
+            "Precio": "75.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1.085 PZA POLLO ROSTIZADO KG",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "1 PZA POLVORONES EXH 12/37 GRS",
+            "Precio": "39.00"
+        },
+        {
+            "Descripcion": "2 PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA NUBE NOCHES DESP.6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "2 PZA SEDAL 12/620ML SH ANTINUOS",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 PZA SEDAL 12/620ML SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "2 PZA SERVILLETA CUAD.MAXIMA 12/500 PZ",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "1 BOL SOPA MODERNA HONGO",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "2 BOL SOPA MODERNA SPAGHETTI",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FAMILIAR",
+            "Precio": "8.50"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos como el total, monto pagado y cambio no son visibles. Además, algunos precios y descripciones fueron difíciles de leer debido a la resolución."
+}

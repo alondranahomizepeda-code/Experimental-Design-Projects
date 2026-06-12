@@ -1,0 +1,123 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "3 PZA Colgate Triple Accion White 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "1 PZA Doritos Nachos 223GRS Familia",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 KG Frijol Joya P. de Mayo 1/2 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "2 Bol Mod Animales Clasicos",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "2 PZA Gamesa Marias Clasico 20/177 GR",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PZA Gris Normal 74/30 X Escala",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PTE Harina Hot Cakes Aunt Jemima",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PZA Huevo Calvario Grande",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "3 PTE Nido Jovenes Adultos 1.6 KG",
+            "Precio": "480.00"
+        },
+        {
+            "Descripcion": "1 Bol Lagos de Montebello Maracuya",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "1 CJA Leche Deslactosada Bove Litro",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA Ledeer Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2 Bol Maiz Palomero 1/20 KG",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "1 PZA Rollo Kleenex",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA Nature Heart Té Surido 5/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA Polvorones Exah 12/375 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "2 PZA Queso Crema Philadelphia 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA Saba Buenas Noches Desp. 6/24",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "2.460 GRM Sandia Baby",
+            "Precio": "88.55"
+        },
+        {
+            "Descripcion": "1 PZA Savile 12/700 ML SH Ace. Esenci",
+            "Precio": "39.50"
+        },
+        {
+            "Descripcion": "2 PZA Savile 12/700 ML SH Ace. Esenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 PZA Sedal 12/620ML SH Antinudosos",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 PZA Sedal 12/620ML SH Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "1 PZA Servilleta Chida Maxima 12/500",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "1 Bol Sopa Moderna Hongo",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "2 Bol Sopa Moderna Spaghetti",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "1 PZA Yakult Five Pack",
+            "Precio": "40.00"
+        },
+        {
+            "Descripcion": "1 PZA Yakult Five Pack Uva Verde 10/80",
+            "Precio": "40.00"
+        }
+    ],
+    "Total_a_Pagar": "3850.57",
+    "Monto_Pagado": "3850.00",
+    "Cambio": "0.43",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 85,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero algunos textos están ligeramente borrosos, lo que podría afectar la precisión en algunos precios o descripciones."
+}

@@ -1,0 +1,159 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4 PTE PACK DOVE ORIGINAL 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "3 PZA ACEITE CANOLI 12/946 ML",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "1 BOL ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1.010 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "1 KG AZUCAR STAN. 5/1 KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/30 GR",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA COLGATE TRIPLE ACCION 11/144 GR",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 23/226 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "2.010 KG JARFIL JOYA F DE MAYO 1/25 KG",
+            "Precio": "217.00"
+        },
+        {
+            "Descripcion": "2 BOL G MGD ANIMALITOS 12/500 GR",
+            "Precio": "105.00"
+        },
+        {
+            "Descripcion": "2 PZA MARIA CLASSICA 12/170 GR",
+            "Precio": "44.70"
+        },
+        {
+            "Descripcion": "1 PZA JABON NEUTRO 12/150 GR",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PZA HUEVO CALVARIO GRANEL",
+            "Precio": "190.00"
+        },
+        {
+            "Descripcion": "1 PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 PTE KOTEX CLAS.ANATO.C/A 10/10 PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "14.50"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 12/1.0",
+            "Precio": "29.57"
+        },
+        {
+            "Descripcion": "1 CJA LECHE DESLACTOSADA BOVE 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA LECHE 48/375GR ABRE FACIL",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2.000 GRM MAIZ PALMERO 12/1 KG 43/44 EXP",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/28/200 GR",
+            "Precio": "13.50"
+        },
+        {
+            "Descripcion": "1 BOL MOLE ROJO MEXIQUEÑO 20/500 GR",
+            "Precio": "57.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20 GR",
+            "Precio": "115.20"
+        },
+        {
+            "Descripcion": "1.085 PZA POLLO ROSTIZADO KG",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/37 GR",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "2 PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA BUE.NOCHE DESP.C/24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SEDA 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero algunos datos como el total, monto pagado y cambio no son visibles. La luz es aceptable, aunque hay áreas con sombras que dificultan la lectura."
+}

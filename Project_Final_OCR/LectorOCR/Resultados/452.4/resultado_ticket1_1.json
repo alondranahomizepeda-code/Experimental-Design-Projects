@@ -1,0 +1,139 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Arroz Schettino 1kg Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel 1.010kg",
+            "Precio": "17.75"
+        },
+        {
+            "Descripcion": "Kg Azucar Stan. 5kg",
+            "Precio": "70.00"
+        },
+        {
+            "Descripcion": "Bol Cafe Legal 24/200gr Trad Bolsa",
+            "Precio": "54.00"
+        },
+        {
+            "Descripcion": "Pza Canellitas Ex 12/30gr",
+            "Precio": "12.00"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantequilla 225gr",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion White 48gr",
+            "Precio": "10.00"
+        },
+        {
+            "Descripcion": "Pza Doritos Nachos 225grs Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Kg Frijol Joya F. de Mayo 1.25kg",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Bol G Mod Animalitos 5/1kg",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Gamesa Marías Clásicas 170gr",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "Pza Jabón 10/10cl Neutro",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Pza Harina de Trigo 5kg S Anton",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Kg Huevo Calvario Granel",
+            "Precio": "52.50"
+        },
+        {
+            "Descripcion": "Pza Kotex Clas Antic. C/A 10/10 Pza",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Bol Las Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Pza Leche Bove Entera 1lt",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "Pza Leche Deslactosada Bove 1lt",
+            "Precio": "38.00"
+        },
+        {
+            "Descripcion": "Pza Mini Pingüino 10/8/200grs",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Bol Mole Rojo Mexiquense 20/500gr",
+            "Precio": "57.00"
+        },
+        {
+            "Descripcion": "Pza Nature Heart Té Surtdo 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pza Pollo Rostizado Kg",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Exh Polvorones Exh 12/37grs",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Pza Queso Crema Philadelphia 180grs",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Saba Buenas Noches Desp. 24/669",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "Pza Savile 12/700ml Sh Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/620ml Sh Antinuidos",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/620ml Sh Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "Pza Servilleta Maxima 12/500 Pz",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "Bol Sopa Moderna Hongo",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "Bol Sopa Moderna Spaghetti",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "Pza Yakult Five Pack",
+            "Precio": "40.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos están parcialmente visibles o cortados, lo que dificulta la lectura completa del ticket."
+}

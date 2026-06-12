@@ -1,0 +1,31 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 PIE BSA P/BASURA ANGEL ECOL 60X90",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "1 PIE CIRILLO FLAMA 32",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3.045 KG HUEVO CALVARIO GRANELS",
+            "Precio": "102.00"
+        },
+        {
+            "Descripcion": "1 PIE JARITOS MANZANA 8/25 LT",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "1 PIE JUEGO OAXACA BOVE 400GRS",
+            "Precio": "48.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 85,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero hay ligeros reflejos y sombras que dificultan la lectura perfecta de algunos detalles menores."
+}

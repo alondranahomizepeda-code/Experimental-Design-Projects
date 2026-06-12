@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Bol Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Bol Arroz Schettino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "KG Azucar Stan. 5KG",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Caja Cafe Legal 24/200 GR Trad Bolsa",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Pza Canelitas Exh 12/30 GR",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantequilla 225 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Pza Colgate Triple Accion White 48/1",
+            "Precio": "105.00"
+        },
+        {
+            "Descripcion": "Pza Doritos Nachos 223GR Familiar",
+            "Precio": "54.50"
+        },
+        {
+            "Descripcion": "KG Frijol Joya F. de Mayo 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Bol Mod Animalitos 12/55 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Gamesa Marias Clasicas 20/170 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "Pza Grisi Jabon 15/70 GR Neutro",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "KG Leche Calvario Granel 3 S Anti 1",
+            "Precio": "27.00"
+        },
+        {
+            "Descripcion": "Pza Jamon Virginia Fud 290GR",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Pte Clas. Anato. C/A 10/10 Pza",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Bol Laggs Te Helado Durazno Maracuya",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Pza Leche Bove Entera 12/1.0 L",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "Caja Leche Deslactosada Bove Lit",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Pza Lechera 48/375GR Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "GRM Maiz Palomero 1/20 KG 43/44 EXP",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Pza Mini Pinguino 10/8/200 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Pza Mole Rojo Mexiquense 20/500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pza Nature Heart Te Surtdo 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pza Pollo Rostizado KG",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "Exh Polvorones Exh 12/37 GR",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "Pza Queso Crema Philadelphia 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Manchego Fud 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pte Saba Bue. Noches PZA E4 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "GRM Sandia Baby",
+            "Precio": "64.90"
+        },
+        {
+            "Descripcion": "Pza Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Pza Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero algunos precios y datos están parcialmente borrosos o difíciles de leer. No se detecta el total, monto pagado ni cambio."
+}

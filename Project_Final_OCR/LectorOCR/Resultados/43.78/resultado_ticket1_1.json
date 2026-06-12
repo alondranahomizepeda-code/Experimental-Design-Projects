@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "CUAJ HIG. VOGUE 10/4600 HUS",
+            "Precio": "327.75"
+        },
+        {
+            "Descripcion": "PTE 4PACK DOVE ORIGINAL 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "PZA ACEITE CANOLI 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "BOL ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "PTE ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "BOL AVENA GRANEL 12/10 KG",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "KG AZUCAR STAN. 5KG",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "BOL CAFE LEGAL 24/200 GR TRAD BOLSA",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "PZA CANELITAS 12/12/37 GR",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "PZA CHIPILO MANTEQUILLA 225 GR",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "PZA COLGATE TRIPLE ACCION 12/48/1",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "PZA DORITOS NACHOS 23GRS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "BOL GAMESA MARIAS CLASS 12/170 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "PZA GRISI JABON 10/125 GR",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "PTE HARINA DE TRIGO 3 ESTR S ANTON 1",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "KG HUEVO CALVARIO GRANEL",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "PTE KOTEX CLAS.ANATO.CA 12/10",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "BOL LAGGS DE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "PZA LECHE BOVE ENTERA 12/1.0L",
+            "Precio": "29.97"
+        },
+        {
+            "Descripcion": "CJA LECHE DESLACTOSADA BOVE 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "PZA LECHERA 48/375GR ARE FACIL",
+            "Precio": "31.00"
+        },
+        {
+            "Descripcion": "2000 GRM MAIZ PALOMERO 10 KG 43/44 EXP",
+            "Precio": "74.00"
+        },
+        {
+            "Descripcion": "PZA MINI PINGUINO 10/8/200 GRS",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "BOL MOLE ROJO MEXIQUESNE 500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "PZA NATURE HEART TE SURTIDO",
+            "Precio": "46.00"
+        },
+        {
+            "Descripcion": "PZA POLLO ROSTIZADO KG",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "EXH POLVORONES EXH 12/37 GRS",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "PTE SABU NOCHE 25/24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "GRM SANDIA BABY",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "PZA SAVILE 12/700 ML SH ESCENCIA",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "PZA SEDAL 12/500 ML SH ANTINUDOS",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos como el total, monto pagado y cambio no son visibles o están fuera del área legible. Los productos están bien identificados."
+}

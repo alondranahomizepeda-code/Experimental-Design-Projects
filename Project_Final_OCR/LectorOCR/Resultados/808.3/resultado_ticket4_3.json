@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "DEPORTIVO LEGGINGS ROPA DEPORTIVA PARA MUJER",
+            "Precio": "$249.00"
+        }
+    ],
+    "Total_a_Pagar": "$249.00",
+    "Monto_Pagado": "$249.00",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen está clara, pero algunos detalles como el cambio no están explícitos en el ticket."
+}

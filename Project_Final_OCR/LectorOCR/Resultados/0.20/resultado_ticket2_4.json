@@ -1,0 +1,31 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "PTE BSA PASUARA ANGEL ECO 680G E",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "PTE CERILLO FLAM 32 20/50",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "HUEVO CALVARIO DANIEL",
+            "Precio": "104.00"
+        },
+        {
+            "Descripcion": "BOT JARRITOS MANZANA 8/2 LTS",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "QUESO OAXACA BOVE 400GR",
+            "Precio": "23.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 75,
+    "Calidad_Luz": 40,
+    "Notas_Confianza": "La imagen está oscura y algunos datos son difíciles de leer. Se realizó la extracción con la mayor precisión posible, pero puede haber errores en los precios o descripciones."
+}

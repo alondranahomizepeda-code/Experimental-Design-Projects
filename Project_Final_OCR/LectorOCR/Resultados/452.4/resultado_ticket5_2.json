@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "No detectado",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 30,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "El ticket no corresponde a una compra en Garis, sino a un aviso de strike. No contiene información de productos, precios ni totales. La calidad de luz es aceptable, pero el contenido no es relevante para la estructura solicitada."
+}

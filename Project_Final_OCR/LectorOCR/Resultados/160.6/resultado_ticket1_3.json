@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Arroz Morelos 1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Arroz Schettino 1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel",
+            "Precio": "17.68"
+        },
+        {
+            "Descripcion": "Azúcar Stan. 5 KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Café Legal 24/200GR Trad Bolsa",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Canellitas Exh 12/130 GR",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 GR",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "Colgate Triple Acción 48/1",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223GR Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Frijol Joya P. de Mayo 1.25 KG",
+            "Precio": "63.21"
+        },
+        {
+            "Descripcion": "Mod Animaltitos 5 KG",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "Gamesa Marias Clasicas 177 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "Grisi Jabón 140 GR Neutro",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Huevo Calvario Granel",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "Jamón Virginia 200GR",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anatómico C/10 PZA",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Laggs Té Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 1L",
+            "Precio": "356.00"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove 1L",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375GR Abre Fácil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Maíz Palomero 1/2 KG",
+            "Precio": "19.50"
+        },
+        {
+            "Descripcion": "Mini Pingüino 10/200 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 500 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Nature Heart Té Surtdo 6/20 GR",
+            "Precio": "20.40"
+        },
+        {
+            "Descripcion": "Pollo Rostizado KG",
+            "Precio": "120.00"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 GR",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Buenas Noches Desp. 6/24",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Sandía Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Sedal 12/620ML SH Antinudoso",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Sedal 12/620ML SH Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "Servilleta Cuad. Máxima 1500 PZ",
+            "Precio": "85.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero algunos datos como el total, monto pagado y cambio no son visibles. La iluminación es aceptable, aunque hay áreas con sombras que dificultan la lectura."
+}

@@ -1,0 +1,143 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 PTE 4PACK DOVE ORIGINAL 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "3 PZA ACEITE CANOLA 12/946 ML",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "1 PTE ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1.010 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "17.82"
+        },
+        {
+            "Descripcion": "1 KG AZUCAR SAN. 5KG",
+            "Precio": "72.00"
+        },
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 12/200 GR TRAD BOLSA",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/375 GR",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225 GRMS",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "1 PZA COLGATE TRIPLE ACCION FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 12/40 GR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "2.000 KG FRIJOL JOYA DE RIO 1/25 KG",
+            "Precio": "63.00"
+        },
+        {
+            "Descripcion": "2 BOL GOOD ANIMALS 12/1 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "1 PZA HUEVO CALVARIO GRANEL",
+            "Precio": "27.00"
+        },
+        {
+            "Descripcion": "1 PZA JAMON VIRGINIA FUD 200GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "3 PTE KOTEX CLAS.ANATO.C 2/10/10 PZA",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS HE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 12/1 L",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "1 CAJA LECHE DESLACTOSADA BOVE ITAL",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "3 PZA LECHERA 48/375GR ABRE FACIL",
+            "Precio": "108.00"
+        },
+        {
+            "Descripcion": "2.000 GRM MAIZ PALMERO 12/1 KG 43/44 EXP",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/8/200 GRS",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "1 PZA MOLE ROJO MEXICANO 500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURT 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA POLLO ROSTIZADO KG",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/375 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO CREMA PHILADELPHIA 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PTE SABA NOCHE DESP.24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "88.55"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE ESCONDI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE ESCONDI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/600 ML SH ANT LINDOS",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero algunos datos como el total, monto pagado y cambio no son visibles. La luz es aceptable, aunque hay áreas con sombras que dificultan la lectura."
+}

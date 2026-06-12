@@ -1,0 +1,143 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 gr",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ml",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "Bol Arroz Morelos 10 kg Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Bol Arroz Schettino 10 kg Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel 1/20 kg",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Azucar San. 5 kg",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Cafe Legal 24/200 gr Trad Bolsa",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Canela Yats Exh 12/30 grs",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 grs",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion White 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223 grs Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Kg Frijol Joya F. de Mayo 1/25 kg",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "Bol G Mod Animalitos 5/1 kg",
+            "Precio": "44.70"
+        },
+        {
+            "Descripcion": "Galletas Marias Clasicas 20/177 gr",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Grisi Jabon Ligero Neutro",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Kg Harina Calvillo Granel",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Jamón Virginia Fud 290 grs",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato. C/A 10/10 pza",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Bol Laggs Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1.0 l",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "Caja Leche Deslactosada Bove Lit",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375 gr Abre Facil",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "Grm Maiz Palomero 1/20 kg 43/44 Exp",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mini Pinguino 10/8/200 grs",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 20/500 gr",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Nature Heart Té Surtiro 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado kg",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 grs",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180 grs",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180 grs",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noche Desp. 6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Grm Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Savile 12/700 ml Sh Ace. Escenci",
+            "Precio": "74.90"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero algunos precios y datos están parcialmente legibles debido a la iluminación y el tamaño del texto."
+}

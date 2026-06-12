@@ -1,0 +1,31 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "PTE BSA P/BASURA ANGUI ECO 60X90",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "PTE CERILLO FLAMA 32",
+            "Precio": "20.50"
+        },
+        {
+            "Descripcion": "KG HUEVO CALVARIO GRANEL",
+            "Precio": "84.35"
+        },
+        {
+            "Descripcion": "BOT JARRITOS MANZANA 8/2 LTS",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "PZA QUESO OAXACA BOVE 400GR",
+            "Precio": "202.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena calidad, pero algunos detalles como el texto pequeño y los precios podrían ser difíciles de leer con precisión. Se realizó la extracción con alta confianza."
+}

@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Pintos sal y limon",
+            "Precio": "42.20"
+        },
+        {
+            "Descripcion": "Agua mineral Tehuacan",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "Uruguayos",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "Fuze tea",
+            "Precio": "18.00"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "42.00",
+    "Cambio": "0.30",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene baja iluminación y algunos textos están borrosos, lo que dificulta la lectura completa y precisa de ciertos datos."
+}

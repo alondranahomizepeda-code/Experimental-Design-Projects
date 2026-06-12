@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "No detectado",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 50,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen no corresponde a un ticket de compra de Garis, sino a un aviso de strike. No se detecta información relacionada con productos, precios o totales."
+}

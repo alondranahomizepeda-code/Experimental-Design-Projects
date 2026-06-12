@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 20,
+    "Calidad_Luz": 15,
+    "Notas_Confianza": "La imagen está oscura y los datos son difíciles de leer. No se pueden identificar los productos ni los montos claramente."
+}

@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "Super Kompras Centro",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "FRUTOS ABI Y IVHOR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "AGUA MINERAL TEHUACAN",
+            "Precio": "13.99"
+        },
+        {
+            "Descripcion": "CHURRUMAIS 60 G",
+            "Precio": "17.61"
+        },
+        {
+            "Descripcion": "VESSIDA FUSE TEA 600",
+            "Precio": "16.00"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "92.00",
+    "Cambio": "0.30",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 85,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero la iluminación es un poco tenue y algunos detalles del ticket están ligeramente borrosos, lo que podría afectar la precisión en los precios y descripciones."
+}

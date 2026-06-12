@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Caja Hig. Vogue 10/4600 Hjs.",
+            "Precio": "327.75"
+        },
+        {
+            "Descripcion": "4 Pack Dove Original 12/4/90 Gr.",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 Ml.",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Bol Arroz Morelos 10/1 Kg Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Pte Arroz Schettino 10/1 Kg Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel 10/1 Kg",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Kg Azucar Stan.",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "Bol Cafe Legal 22G Trad Bolsa",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "Pza Canellas 12/130 Grs.",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantequilla 225 Grs.",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "Pza Colgate Triple Accion White 48/81",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "Pza Doritos Nachos 22G/36S Familiar.",
+            "Precio": "54.00"
+        },
+        {
+            "Descripcion": "Bol Galletas Marías Clas 15/170 Gr.",
+            "Precio": "44.00"
+        },
+        {
+            "Descripcion": "Pza Grisi Jabón 12/150 Gr.",
+            "Precio": "71.00"
+        },
+        {
+            "Descripcion": "Pte Harina de Trigo 3 Estr S Anton 1",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Kg Huevo Calvario Granel.",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Pza Jamón Virginia Fud 290Grs.",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Pte Kotex Clas. Anat. C/Aro 10 Pza.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Bol Laggs de Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Pza Leche Bove Entera 12/1 L.",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Cja Leche Deslactosada Bove 1Lt.",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Pza Lechera 48/375Gr Abre Facil.",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2000 Grm Maíz Palomero 10 Kg 43/44 Exp.",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Pza Mini Pingüino 10/8/200 Grs.",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Bol Mole Rojo Mexiquense 6/20/200",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Nature Heart Té Surido 6/20/20",
+            "Precio": "60.00"
+        },
+        {
+            "Descripcion": "Pza Pollo Rostizado 2.00",
+            "Precio": "120.00"
+        },
+        {
+            "Descripcion": "Exh Polvorones Exh 12/37 Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Crema Philadelphia 180Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Usmc Manchego 1800Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pte Saba Noches Desp. 6/24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "2.460 Grm Sandía Baby.",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Pza Savile 12/700 Ml Sh Escenc.",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Pza Savile 12/620Ml Sh Antinuudos.",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero algunos datos como el total, monto pagado y cambio no son visibles. La luz es aceptable, aunque hay áreas con sombras que dificultan la lectura."
+}

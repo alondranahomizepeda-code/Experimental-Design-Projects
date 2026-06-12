@@ -1,0 +1,139 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 Gr",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Arroz Schettino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "Azucar Stan. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Cafe Legal 24/200GR Trad Bolsa",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Canelitas Exh 12/30 Grs",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 12/1 KG",
+            "Precio": "105.20"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion White 48/1",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223GR Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Frijol Joya F. de Mayo 1KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Mod Animalitos Clasicos 15/177 Gr",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "Gamesa Marias Clasicas 12/170 Gr",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Gris Jabón 10/125 Gr Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud 290GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato. C/A 10/10 PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Lagg's Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1.0",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove Litro",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera Abre Facil 48/375GR",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "Gr Maiz Palomero 1/20 KG",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mini Pinguino 10/8/200 Grs",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 20/500 Grs",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Nature Heart E Sur Tido 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado 2KG",
+            "Precio": "47.42"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 Grs",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noches Desp. 4/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Sandia Baby",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero algunos datos están parcialmente visibles o cortados, y el total, monto pagado y cambio no son legibles."
+}

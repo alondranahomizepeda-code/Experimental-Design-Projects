@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "Multibrand Outlet Stores, SAPI de CV",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Deportivo Leggings ropa deportiva para",
+            "Precio": "$249.00"
+        }
+    ],
+    "Total_a_Pagar": "$249.00",
+    "Monto_Pagado": "$249.00",
+    "Cambio": "$0.00",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 60,
+    "Notas_Confianza": "La imagen tiene poca iluminación y algunos textos están borrosos, lo que dificulta la lectura completa del ticket."
+}

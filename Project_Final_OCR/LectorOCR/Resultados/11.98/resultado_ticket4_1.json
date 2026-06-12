@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Leggins ropa deportiva",
+            "Precio": "$249.00"
+        }
+    ],
+    "Total_a_Pagar": "$249.00",
+    "Monto_Pagado": "$249.00",
+    "Cambio": "$0.00",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene buena resolución, pero la iluminación es baja y algunos detalles son difíciles de leer. Se logró identificar la mayoría de los datos principales."
+}

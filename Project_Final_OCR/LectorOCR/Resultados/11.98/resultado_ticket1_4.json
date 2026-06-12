@@ -1,0 +1,103 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "3 PZA COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "1 PZA DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 PZA FRIJOL JOYA F.DE MAYO 1KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "1 BOL G MOD ANIMALITOS 400GR",
+            "Precio": "22.00"
+        },
+        {
+            "Descripcion": "1 PZA GAMES MARIAS CLASICAS 20/177GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "1 PZA GRISI JABON 10/150 GR NEUTRO",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PTE HARINA DE TRIGO EL SANTO 5 ANTON",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PZA HUEVO CALVARIO GRANJA",
+            "Precio": "86.00"
+        },
+        {
+            "Descripcion": "1 PZA JAMON VIRGINIA FUD 200GRS",
+            "Precio": "18.60"
+        },
+        {
+            "Descripcion": "1 PTE KOTEX CLASSIC 10/10 PZA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 BOL LADYS TE NEGRO BURZANO MARACUYA",
+            "Precio": "16.80"
+        },
+        {
+            "Descripcion": "12 PZA LECHE BOVE ENTERA 1/2 L",
+            "Precio": "396.00"
+        },
+        {
+            "Descripcion": "1 CAJA LECHE DESLACTOSADA BOVE ITL",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA MAIZ PALMERO 20/454 GR EXP",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINO 10/100 ML",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA POLLO ROSTIZADO KG",
+            "Precio": "86.00"
+        },
+        {
+            "Descripcion": "1 PZA DOLORVES CREMA DOLPHIA 180GRS",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA SABA MODERNA HONGO",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "1 PZA SABA MODERNA SPAGHETTI",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FIVE PACK",
+            "Precio": "40.00"
+        },
+        {
+            "Descripcion": "1 PZA YAKULT FIVE PACK UVA VERDE 10/80",
+            "Precio": "40.00"
+        }
+    ],
+    "Total_a_Pagar": "3850.00",
+    "Monto_Pagado": "3850.00",
+    "Cambio": "19.00",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos textos están ligeramente borrosos, lo que dificulta la lectura precisa de ciertos precios y descripciones."
+}

@@ -1,0 +1,31 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "PTE BSA P/BASURA ANGEL ECOL B50X64",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "PTE CERILLO FLAMA 32 20/50",
+            "Precio": "51.00"
+        },
+        {
+            "Descripcion": "KG HUEVO CALVARIO GRANJERO",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "KG MANZANAS ROJAS MANZANA",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "4PZ QUESO OAXACA BOVE 400G",
+            "Precio": "104.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 75,
+    "Calidad_Luz": 40,
+    "Notas_Confianza": "La imagen está oscura, lo que dificulta la lectura de algunos detalles. Sin embargo, los datos principales son legibles."
+}

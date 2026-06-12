@@ -1,0 +1,103 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "3 PZA GRISI JABON 10/4/150 GR NEUTRO",
+            "Precio": "213.50"
+        },
+        {
+            "Descripcion": "1 PTE HARINA DE TRIGO ESTRELLA S ANTON",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3.730 KG HUEVO CALVARIO GRANEL",
+            "Precio": "139.24"
+        },
+        {
+            "Descripcion": "2 PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "1 PTE KOTEX CLS ANATO C/A 10/10 PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "4 PBO LAGOS DE HELADO DURAZNO MARACUYA",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "2 PZA LECHE DESCREMADA 1/2L",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 CJA LECHE DESLACTOSADA BOVE LT",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "2 PZA LECHERA 48/375GR ABRE FACIL",
+            "Precio": "59.00"
+        },
+        {
+            "Descripcion": "1 PZA MAYZ PAMPEIRO 20/220 GR EXP",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "1 PZA MINT PINQUITO",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "1 BO MOLE ROJO MEXIQUENSE",
+            "Precio": "39.00"
+        },
+        {
+            "Descripcion": "2 PZA NATURE HEART TE SURTIDO",
+            "Precio": "62.00"
+        },
+        {
+            "Descripcion": "1.085 PZA POLLO ROSTIZADO KG",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "1 PZN POLVORONES EXH 12/375 GR",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "2 PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHENGO FUD 290GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABLUE NOCHES DESP 2/4 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE ESCENC",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH ANTILUNOS",
+            "Precio": "63.57"
+        },
+        {
+            "Descripcion": "2 PZA SEDAL 12/620ML SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "1 PZA SERVILLETA CHAO MAXIMA 12/500 PZ",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "1 BO SOPA MODERNA HONGO",
+            "Precio": "8.50"
+        }
+    ],
+    "Total_a_Pagar": "3,850.57",
+    "Monto_Pagado": "3,850.00",
+    "Cambio": "0.00",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene áreas oscuras y algunos textos son difíciles de leer debido a la calidad de la luz y el enfoque. Algunos precios y descripciones fueron interpretados con dificultad."
+}

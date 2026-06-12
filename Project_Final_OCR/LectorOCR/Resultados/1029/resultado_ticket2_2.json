@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "215.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 70,
+    "Calidad_Luz": 60,
+    "Notas_Confianza": "La imagen tiene áreas borrosas y la luz es irregular, lo que dificulta la lectura de los productos comprados y sus precios."
+}

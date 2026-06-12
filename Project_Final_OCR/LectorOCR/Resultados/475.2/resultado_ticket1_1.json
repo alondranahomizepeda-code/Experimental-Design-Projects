@@ -1,0 +1,143 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Bol Avena Granel 1.010",
+            "Precio": "17.58"
+        },
+        {
+            "Descripcion": "Kg Azucar Stan 5kg",
+            "Precio": "125.00"
+        },
+        {
+            "Descripcion": "Bol Cafe Legal 240g",
+            "Precio": "38.00"
+        },
+        {
+            "Descripcion": "Pza Canelitas Exh 12/30g",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantiquilla 225g",
+            "Precio": "38.00"
+        },
+        {
+            "Descripcion": "Pza Colgate Triple Accion White 85ml",
+            "Precio": "30.00"
+        },
+        {
+            "Descripcion": "Pza Doritos Nachos 220g Familiar",
+            "Precio": "94.50"
+        },
+        {
+            "Descripcion": "Kg Frijol Joya Perla de Mayo",
+            "Precio": "22.00"
+        },
+        {
+            "Descripcion": "Bol G Mod Animalitos Clasicos",
+            "Precio": "15.70"
+        },
+        {
+            "Descripcion": "Pza Gamesa Marias Clasicas 170g",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "Pza Grisi Jabon 10/50gr Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Pte Harina de Trigo 3 Estrellas 1kg",
+            "Precio": "7.10"
+        },
+        {
+            "Descripcion": "Kg Huevo Calvario Granel",
+            "Precio": "27.50"
+        },
+        {
+            "Descripcion": "Pza Jamon Virginia Fud 290g",
+            "Precio": "62.00"
+        },
+        {
+            "Descripcion": "Pza Kote Clas Anat 10/10",
+            "Precio": "28.00"
+        },
+        {
+            "Descripcion": "Bol Aguas Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Pza Bote Boveta 1.72l",
+            "Precio": "33.00"
+        },
+        {
+            "Descripcion": "Pza Deslactosada Bove Lit",
+            "Precio": "28.50"
+        },
+        {
+            "Descripcion": "Pza Desodorante Axe Facil",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Pza Leche Heart de Sur 6/20",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kg Pollo Rostizado",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Polvorones Exh 12/37g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Crema Philadelphia 180g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Manchego Fud 180g",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Saba de Noches Desp 6/24",
+            "Precio": "64.90"
+        },
+        {
+            "Descripcion": "Pza Shampoo Sancia Baby",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Pza Savile 17/700ml SH Ace Esenci",
+            "Precio": "39.50"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/650ml SH Antioxid",
+            "Precio": "81.50"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/650ml SH Rizos Definido",
+            "Precio": "81.50"
+        },
+        {
+            "Descripcion": "Pza Servilleta Cuad Maxima 12/500",
+            "Precio": "42.50"
+        },
+        {
+            "Descripcion": "Bol Sopa Moderna Hongo",
+            "Precio": "9.00"
+        },
+        {
+            "Descripcion": "Bol Sopa Moderna Spaghetti",
+            "Precio": "9.00"
+        },
+        {
+            "Descripcion": "Bol Yakult Five Pack",
+            "Precio": "9.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene áreas borrosas y la iluminación no es uniforme, lo que dificulta la lectura de algunos datos como el total, monto pagado y cambio."
+}

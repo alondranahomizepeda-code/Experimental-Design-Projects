@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "MULTIBRAND OUTLET STORES, SAPI DE CV",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "HIDROFUGOS DEPORTIVO LEGGINS ROPA DEPORTIVA PARA MUJER",
+            "Precio": "249.00"
+        }
+    ],
+    "Total_a_Pagar": "249.00",
+    "Monto_Pagado": "250.00",
+    "Cambio": "1.00",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 60,
+    "Notas_Confianza": "La imagen tiene poca iluminación y algunos textos están borrosos, pero los datos principales son legibles."
+}

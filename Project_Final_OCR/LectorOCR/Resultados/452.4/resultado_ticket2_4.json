@@ -1,0 +1,35 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 PTE BSA P/BASURA ANGI ECOL 60X90 E",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "1 PTE CERILLO FLAMA 32 20/50",
+            "Precio": "91.00"
+        },
+        {
+            "Descripcion": "4.635 KG HUEVO CALVARIA GRANEL",
+            "Precio": "108.03"
+        },
+        {
+            "Descripcion": "1 BOT JARRITOS MANZANA 8/..LIST",
+            "Precio": "24.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO OAXACA BOVE 400GR",
+            "Precio": "91.54"
+        },
+        {
+            "Descripcion": "480 GRM ZETAS",
+            "Precio": "23.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen está clara, pero algunos detalles como los precios y descripciones requerían confirmación debido a la resolución y tamaño del texto."
+}

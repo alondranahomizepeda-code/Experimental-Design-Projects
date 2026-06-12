@@ -1,0 +1,151 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ML",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "37.40"
+        },
+        {
+            "Descripcion": "Arroz Schettino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel 1/20 KG",
+            "Precio": "17.68"
+        },
+        {
+            "Descripcion": "Azúcar San. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Café Legal 24/200GR Trad Bolsa",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "Canellitas Ex 12/500 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Chiple Mantequilla 225 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Acción White",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "Doritos Nachos 225 GR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Frijol Joya F de Mayo 12/2.5 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Mani Molido 15/1 KG",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Marias Clasicas 12/170 GR",
+            "Precio": "14.70"
+        },
+        {
+            "Descripcion": "Jabon Zest 10/150 GR Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Huevo Calvario Granel",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Jamón Virginia Fud 290GR",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato. C/A 10/10 PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Lagg's Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1.0 LT",
+            "Precio": "356.00"
+        },
+        {
+            "Descripcion": "Caja Leche Deslactosada Bove 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375GR Abre Facil",
+            "Precio": "31.00"
+        },
+        {
+            "Descripcion": "Maíz Palmero 12/20 KG",
+            "Precio": "44.00"
+        },
+        {
+            "Descripcion": "Mini Pingüino 10/8/200 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 62/500 GR",
+            "Precio": "57.00"
+        },
+        {
+            "Descripcion": "Nature Heart Té Surtiido",
+            "Precio": "59.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado KG",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "Volovones Exh 12/37 GR",
+            "Precio": "39.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noches Desp. 6/24",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "Sandía Baby",
+            "Precio": "88.55"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML Esc. Escenc",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML Esc. Escenc",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Sedal 12/62CM SH Antilindo",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos están parcialmente visibles o cortados, lo que dificulta la lectura completa."
+}

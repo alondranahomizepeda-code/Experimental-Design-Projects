@@ -1,0 +1,27 @@
+{
+    "Nombre_Tienda": "Super Kompras Centro",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Fritos Sal y Limón",
+            "Precio": "42.20"
+        },
+        {
+            "Descripcion": "Agua Mineral Tehuacán",
+            "Precio": "13.90"
+        },
+        {
+            "Descripcion": "Churrualis 60g",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "Bebida Fuze Tea 500",
+            "Precio": "18.00"
+        }
+    ],
+    "Total_a_Pagar": "91.70",
+    "Monto_Pagado": "50.00 monedero, 42.00 efectivo",
+    "Cambio": "0.30",
+    "Confianza_Lectura": 95,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen es clara, pero algunos detalles como el desglose del pago y el cambio podrían ser interpretados incorrectamente debido a la disposición del texto."
+}

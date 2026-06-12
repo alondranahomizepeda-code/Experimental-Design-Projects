@@ -1,0 +1,131 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ML",
+            "Precio": "112.80"
+        },
+        {
+            "Descripcion": "Bol Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "PTE Arroz Schettino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "KG Azucar Stan. 5KG",
+            "Precio": "178.00"
+        },
+        {
+            "Descripcion": "Bol Cafe Legal 24/200GR Trad Bolsa",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "PZA Canelitas Keh 12/30GRS",
+            "Precio": "12.00"
+        },
+        {
+            "Descripcion": "PZA Chipilo Mantequilla 225GR",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "PZA Colgate Triple Accion White 48/1",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "PZA Doritos Nachos 223GRS Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "KG Harina de Trigo 5/1 KG S Antonio",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "KG Huevo Granel",
+            "Precio": "42.70"
+        },
+        {
+            "Descripcion": "Bol Laggs Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "PZA Leche Bove Entera 12/1.0",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "CJA Leche Deslactosada Bove 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "PZA Lechera 48/375GR Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "GRM Maiz Palomero 1/20 KG 43/44 Exp.",
+            "Precio": "88.00"
+        },
+        {
+            "Descripcion": "PZA Mini Pinguino 10/8/200GRS",
+            "Precio": "33.00"
+        },
+        {
+            "Descripcion": "Bol Mole Rojo Mexiquense 500GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "PZA Nature Heart Te Surtiido 6/20/20",
+            "Precio": "47.42"
+        },
+        {
+            "Descripcion": "PZA Pollo Rostizado KG",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "EXH Polvorones Keh 12/37GRS",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "PZA Queso Crema Philadelphia 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "PZA Queso Manchego Fud 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "PTE Saba Bue. Noches Desp. 6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "GRM Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "PZA Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "PZA Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "PZA Sedal 12/650ML SH Antinuidos",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente legibles debido a la resolución y el tamaño del texto."
+}

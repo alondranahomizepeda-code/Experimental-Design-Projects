@@ -1,0 +1,127 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "3 PZA Colgate Triple Accion White 48/1",
+            "Precio": "105.00"
+        },
+        {
+            "Descripcion": "1 PZA Doritos Nachos 225g Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1 KG Frijol Joya de Mex 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "2 Bol Gmd Animalitos 1/15",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "2 PZA Gamesa Marias Clasicas 20/17",
+            "Precio": "29.80"
+        },
+        {
+            "Descripcion": "3 PZA Irish Jabon 180g Estir S Ant",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "1 PTE Harina de Trigo 1/25 KG",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3.730 KG Huevo Calvario Grande",
+            "Precio": "71.50"
+        },
+        {
+            "Descripcion": "3 PZA Jabon Zest 180g 200g",
+            "Precio": "27.00"
+        },
+        {
+            "Descripcion": "3 PTE Kotex Clas Anat 10/10 PZA",
+            "Precio": "16.50"
+        },
+        {
+            "Descripcion": "1 Bol Lagos de Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 PZA Leche Entera 1/12",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "1 CJA Leche Deslactosada Bove Litro",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA Kleenex 48/375gr Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "2 PZA Maiz Palcemo 1/20 KG Exp",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "1 PZA Mole Rojo Mexiquense 20/500 GR",
+            "Precio": "57.50"
+        },
+        {
+            "Descripcion": "2 PZA Nature Heart Te Surti",
+            "Precio": "39.00"
+        },
+        {
+            "Descripcion": "1 PZA Pollo Rostizado 1/2",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "2 PZA Queso Crema Philadelphia 180GR",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "3 PTE Saba Buenas Noches Desp 6/24",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "1 PZA Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 PZA Savile 12/700 ML SH Ace Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA Sedal 12/620ML SH Antidanos",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "1 PZA Sedal 12/620ML SH Rizos Definido",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 PZA Servilleta Cuad Maxima 12/500 PZ",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "2 Bol Sopa Moderna Hongo",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "2 Bol Sopa Moderna Spaghetti",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "1 PZA Yakult Five Pack",
+            "Precio": "40.00"
+        },
+        {
+            "Descripcion": "1 PZA Yakult Five Pack Uva Verde",
+            "Precio": "40.00"
+        }
+    ],
+    "Total_a_Pagar": "3830.57",
+    "Monto_Pagado": "3850.00",
+    "Cambio": "19.00",
+    "Confianza_Lectura": 90,
+    "Calidad_Luz": 85,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos textos están ligeramente borrosos, lo que dificulta la lectura precisa de ciertos precios y descripciones."
+}

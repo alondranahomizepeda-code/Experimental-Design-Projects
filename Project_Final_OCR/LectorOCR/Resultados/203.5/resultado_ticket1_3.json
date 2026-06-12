@@ -1,0 +1,151 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK DOVE ORIGINAL 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "ACEITE CANOLI 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "AVENA GRANEL 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "AZUCAR STAN. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "75.00"
+        },
+        {
+            "Descripcion": "CANELITAS EXH 12/30 GR",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "COLGATE TRIPLE ACCION WHITE 8/5",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "FRIJOL JOYA P.F. 20/1 KG",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "GAMESA MARIAS CLASICAS 20/117 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "GRISI JABON 10/3.5 OZ NEUTRO",
+            "Precio": "71.50"
+        },
+        {
+            "Descripcion": "HARINA DE TRIGO 5 KG ESCALA 71",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "HUEVO VALGRANJA 12/1 KG",
+            "Precio": "57.50"
+        },
+        {
+            "Descripcion": "JAMON VIRGINIA FUND 200GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "KOTEX ANTI FLUIDOS",
+            "Precio": "63.57"
+        },
+        {
+            "Descripcion": "LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "LECHE BOVE ENTERA 12/1.0L",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "LECHE DESLACTOSADA BOVE ILT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "LECHE ABR FACIL 4/375GR",
+            "Precio": "88.50"
+        },
+        {
+            "Descripcion": "GRM MAIZ PALOMERO 1/20 KG 4/4 EXP",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "MINI PINGUINO 10/1",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "BOL MOLE ROJO MEXIQUESNE 20/500 GR",
+            "Precio": "51.00"
+        },
+        {
+            "Descripcion": "NATURE HEART TE SURTIDO 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "POLLO ROSTIZADO KG",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "EXH POLVORONES 12/37 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "QUESO MANCHEGO FUND 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "SABA BUE.NOCHE DESP 6/24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "GRM SANDIA BABY",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "SEDAL 12/620ML SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente legibles debido a la resolución y el tamaño del texto."
+}

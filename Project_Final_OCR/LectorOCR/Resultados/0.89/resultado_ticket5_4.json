@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "No detectado",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 20,
+    "Calidad_Luz": 30,
+    "Notas_Confianza": "La imagen no corresponde a un ticket de compra de Garis, sino a un aviso de amonestación. Además, la calidad de la luz es baja y el contenido no incluye información relevante para la estructura solicitada."
+}

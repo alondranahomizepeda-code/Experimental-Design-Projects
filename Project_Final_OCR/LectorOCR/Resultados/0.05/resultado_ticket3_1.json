@@ -1,0 +1,15 @@
+{
+    "Nombre_Tienda": "No detectado",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "No detectado",
+            "Precio": "No detectado"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 10,
+    "Calidad_Luz": 10,
+    "Notas_Confianza": "La imagen está extremadamente oscura y los datos son ilegibles. No se puede extraer información del ticket."
+}

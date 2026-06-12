@@ -1,0 +1,131 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "APACK DOVE ORIGINAL 12/40/39 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "ACEITE CANOLI 12/946 ML",
+            "Precio": "112.00"
+        },
+        {
+            "Descripcion": "ARROZ MORELOS 1/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "ARROZ SOTTO 1/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "AVENA GRANEL 1/20 KG",
+            "Precio": "17.50"
+        },
+        {
+            "Descripcion": "AZUCAR STAND. 5/1 KG",
+            "Precio": "75.00"
+        },
+        {
+            "Descripcion": "CAFE LEGAL 12/200 GR TRAD BOLSA",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "CANELITAS 12/225 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "CHIPILO MANTECADAS 12/255 GR",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "COLGATE TRIPLE ACCION 48/180 GR",
+            "Precio": "54.00"
+        },
+        {
+            "Descripcion": "NACHOS 12/300 GR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "FRIJOL JOYA DE MAYO 1/25 KG",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "GAMESA MARIAS CLASICAS 20/170 GR",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "GRISI JABON 10/150 GR",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "VIGOR VIGRAN FUJI 20/225 GR",
+            "Precio": "58.50"
+        },
+        {
+            "Descripcion": "LECHE DESLACTOSADA BOVE LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "LECHERA 48/375 GR ARPE FACIL",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "MAIZ PALMERO 12/2 KG",
+            "Precio": "143.00"
+        },
+        {
+            "Descripcion": "MINI PINGUINO 10/20/200 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "NATURE HEART TE SURTIDO 6/20/20",
+            "Precio": "60.00"
+        },
+        {
+            "Descripcion": "POLLO ROSTIZADO KG",
+            "Precio": "180.00"
+        },
+        {
+            "Descripcion": "POLVORONES EXH 12/37 GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "QUESO CREMA PHILADELPHIA 180 GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "QUESO MANCHEGO FUD 180 GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "SABA BUENAS NOCHES 6/24/669",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "SANDIA BABY",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "SAVILE 12/700 ML SH ACE ESENCI",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "SEDAL 12/620 ML SH ANTIINFLUOS",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "SEDAL 12/620 ML SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "SERVILLETA CUAD MAXIMA 12/500 PZ",
+            "Precio": "85.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos están parcialmente visibles o cortados, lo que dificulta la lectura completa del ticket."
+}

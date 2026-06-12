@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4Pack Dove Original 12/4/90 Gr",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canola 1/2 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Bol Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Pte Arroz Schettino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel 1/20 KG",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Azucar San. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Cafe Legal 24/200GR Trad Bolsa",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Canelitas Exh 12/30 Grs.",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 Grs.",
+            "Precio": "45.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion 1/100 ML",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223GMS Familiar",
+            "Precio": "59.40"
+        },
+        {
+            "Descripcion": "Frijol Joya F. De Mayo 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "Gamesa Marias Clasico 20/170 Gr",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Gris. Harina De Trigo 5/1 KG",
+            "Precio": "71.00"
+        },
+        {
+            "Descripcion": "Huevo Granel 1/30",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud 2 Piontas",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato. C/A 10/10",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Bol Laggs Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1 L",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove Lit.",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375GR Abre Facil",
+            "Precio": "388.00"
+        },
+        {
+            "Descripcion": "Grm Maiz Palomero 1/20 KG 43/4 Exp.",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Mini Pinguino 1/8/200 Grs.",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 20/500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Nature Heart Te Suritido 6/20 GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado KG",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 Grs.",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180GRS.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180GRS.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noches Desp. 6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML H. Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML H. Ace. Escenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "Sedal 12/620ML SH Antinuidos",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente borrosos o difíciles de leer. No se detecta el total, monto pagado ni cambio."
+}

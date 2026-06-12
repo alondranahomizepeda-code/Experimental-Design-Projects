@@ -1,0 +1,139 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 CJA HIG.VOGUE 10/4/600 HJS",
+            "Precio": "327.75"
+        },
+        {
+            "Descripcion": "1 PIE 4PACK DOVE ORIGINAL 12/490 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "2 PZA ACEITE CANOLI 12/946 ML",
+            "Precio": "37.50"
+        },
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10 KG TRAD INSUR",
+            "Precio": "324.00"
+        },
+        {
+            "Descripcion": "1 PIE ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "1 KG AZUCAR SAN",
+            "Precio": "22.00"
+        },
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 24/200 GR TRAD BOLSA",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EXH 12/3/65 GR",
+            "Precio": "30.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILE MANTEQUILLA 225 GR",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 PZA COLGATE TRIPLE ACTION WHITE 48/85",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "1 KG FRUIT JOYA DE MAYO 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "1 PZA GRIS MARIA 12/3/85 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "1 PZA HUEVO CALVARIO GRANEL",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PZA JAMON VIRGINIA FUD 290GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "1 PZA KOTEX CLAS.ANATO.C 10/10/12",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS TE HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 PZA LECHE BOVE ENTERA 12/1 L",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "1 CJA LECHE DESLACTOSADA BOVE 1LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "3 PZA LECHERA 48/375 GRF FACIL",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "2,000 GRM MAIZ PALMERO 1/20 KG 44/44 EXP",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/8/20 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "1 PZA MOLE ROJO MEXIUNES 200 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 PZA POLLO ROSTIZADO KG",
+            "Precio": "88.55"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/3/65 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO CREMA PHILADELPHIA 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 PTE SABA BUE.NOCHE DES.6/24",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA 1/20 KG",
+            "Precio": "88.55"
+        },
+        {
+            "Descripcion": "1 PZA SAVILE 12/700 ML SH ESENCIAL",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/600 ML SH ANTIC",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena iluminación pero algunos datos están parcialmente visibles o no se encuentran en el ticket. La lectura de los productos es clara, pero el total, monto pagado y cambio no son detectables."
+}

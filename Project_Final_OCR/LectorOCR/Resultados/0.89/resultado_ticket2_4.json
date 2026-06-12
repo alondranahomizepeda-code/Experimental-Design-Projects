@@ -1,0 +1,31 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 PTE BSA P/BASURA ANGU CEL 60X90 E",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "1 PTE CERILLO FLAMA 32",
+            "Precio": "8.03"
+        },
+        {
+            "Descripcion": "1.405 KG HUESO CALVARIO GRANEL",
+            "Precio": "84.54"
+        },
+        {
+            "Descripcion": "1 PTE JARRITOS MANZANA 8/2 LTS",
+            "Precio": "80.03"
+        },
+        {
+            "Descripcion": "1 PTE QUESO OAXACA BOVE 400GRS",
+            "Precio": "48.00"
+        }
+    ],
+    "Total_a_Pagar": "382.57",
+    "Monto_Pagado": "500.00",
+    "Cambio": "117.43",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 70,
+    "Notas_Confianza": "La imagen tiene baja iluminación y algunos textos están ligeramente borrosos, pero la mayoría de los datos son legibles."
+}

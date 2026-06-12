@@ -1,0 +1,143 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Bol Cafe Legal 24/200GR Trad Bolsa",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Canelitas Exh 12/30GRS",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantequilla 225GRS",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "3 Pza Colgate Triple Accion White 48/75ML",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "Pza Doritos Nachos 223GRS Familiar",
+            "Precio": "54.50"
+        },
+        {
+            "Descripcion": "3.010 KG Frijol Joya F de Mayo 1/25 KG",
+            "Precio": "66.22"
+        },
+        {
+            "Descripcion": "Pza Mod Animaltitos 5/1KG",
+            "Precio": "22.00"
+        },
+        {
+            "Descripcion": "Pza Gamesa Marias Clasicas 20/177GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "3 Pza Grisi Jabon 10/4/150 GR Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 Pte Harina de Trigo 5 Est S Anton 1",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "KG Huevo Calvario Granel",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "3 Pte Jamon Virginia Fud 200GRS",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "3 Pte Kotex Clas.Anato.C/A 10/12 PZA",
+            "Precio": "16.80"
+        },
+        {
+            "Descripcion": "Bol Laggs H Elado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "12 Pza Leche Bove Entera 1/12",
+            "Precio": "358.00"
+        },
+        {
+            "Descripcion": "Cja Leche Deslactosada Bove LT",
+            "Precio": "358.00"
+        },
+        {
+            "Descripcion": "2 Pza Lechera Abr 376GRS Abr Fecha",
+            "Precio": "62.00"
+        },
+        {
+            "Descripcion": "2.000 GRM Maiz Palomero 1/20/43/4 EXP",
+            "Precio": "43.54"
+        },
+        {
+            "Descripcion": "1 Pza Mini Pinguino 1/80/225GRS",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "1 Pza Pollo Rostizado KG",
+            "Precio": "107.42"
+        },
+        {
+            "Descripcion": "1 Exh Polvorones Exh 12/37GRS",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "2 Pza Queso Crema Philadelphia 180GRS",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "1 Pza Queso Manchego Fud 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "3 Pte Saba Bue.Noches Desp.6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "1 Pza Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "2 Pza Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 Pza Sedal 12/620ML SH Antinuedos",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 Pza Sedal 12/620ML SH Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "2 Pza Servilleta Cua.Maxima 12/500 PZ",
+            "Precio": "85.00"
+        },
+        {
+            "Descripcion": "1 Bol Sopa Moderna Hongo",
+            "Precio": "8.50"
+        },
+        {
+            "Descripcion": "2 Bol Sopa Moderna Spaghetti",
+            "Precio": "17.00"
+        },
+        {
+            "Descripcion": "1 Pza Yakult Five Pack",
+            "Precio": "37.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos como el total, monto pagado y cambio no son visibles en el ticket. Además, algunos precios y descripciones fueron difíciles de leer debido a la resolución."
+}

@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK Dove Original 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10/1 KG Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Arroz Schetino 10/1 KG Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel 1/20 KG",
+            "Precio": "17.60"
+        },
+        {
+            "Descripcion": "Azucar Stan. 5KG",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Cafe Legal 24/200G Trad Bolsa",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Canellitas Exh 12/133 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion White 48/18",
+            "Precio": "39.60"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223GR Familiar",
+            "Precio": "54.00"
+        },
+        {
+            "Descripcion": "Frijol Joya F. Exh 20/1 KG",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Gansito Marinela 10/55 GR",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "Galletas Marias Clasicas 20/177 GR",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Grisi Jabon 10/150 GR Neutro",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Harina de Trigo San Fer S Anton 1",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud 290GR",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato.C/A 10/PZA",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Lages de Helado Durazno Maracuya",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1 L",
+            "Precio": "354.00"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove Lit.",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera 48/375GR Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Maiz Palomero 1/20 KG 34/4 EXP",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mini Pinguino 10/80 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 20/500 GR",
+            "Precio": "115.00"
+        },
+        {
+            "Descripcion": "Nature Heart Te Surti 12/500 GR",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado KG",
+            "Precio": "99.00"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 GR",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue.Noches Desp. Exf. 24/669",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Savile 12/700 ML SH Ace. Escenci",
+            "Precio": "74.90"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos están parcialmente visibles o cortados, lo que dificulta la lectura completa del ticket."
+}

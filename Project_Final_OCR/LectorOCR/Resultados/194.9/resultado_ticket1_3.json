@@ -1,0 +1,143 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4Pack Dove Original 12/4/90 gr",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "Aceite Canoli 12/946 ml",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Arroz Morelos 10/1 kg Trad Insur",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "Arroz Schettino 10/1 kg Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Avena Granel 1.010 kg",
+            "Precio": "12.10"
+        },
+        {
+            "Descripcion": "Azucar Stan. 5 kg",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Cafe Legal 24/200 gr Trad Bolsa",
+            "Precio": "50.00"
+        },
+        {
+            "Descripcion": "Canelitas Exh 12/30 grs",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Chipilo Mantequilla 225 grs",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Colgate Triple Accion White 48/1",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "Doritos Nachos 223 grs Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Frijol Joya F. de Mayo 1/25 kg",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Animalitos 5 kg",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Galletas Marias Clasicas 20/177 gr",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Jabon 10/140 gr Neutro",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "Harina de Trigo Granel",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "Jamon Virginia Fud 290 grs",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Kotex Clas. Anato. C/A 10/10 pza",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Leche Bove Entera 12/1.0 l",
+            "Precio": "356.04"
+        },
+        {
+            "Descripcion": "Leche Deslactosada Bove Litro",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Lechera Abre Facil 48/375 gr",
+            "Precio": "88.50"
+        },
+        {
+            "Descripcion": "Maiz Palomero 2.000 gr",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Mini Pinguino 1/8/200 grs",
+            "Precio": "115.00"
+        },
+        {
+            "Descripcion": "Mole Rojo Mexiquense 200/500 gr",
+            "Precio": "57.00"
+        },
+        {
+            "Descripcion": "Nature Heart Te Surtiro 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "Pollo Rostizado kg",
+            "Precio": "47.45"
+        },
+        {
+            "Descripcion": "Polvorones Exh 12/37 grs",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "Queso Crema Philadelphia 180 grs",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Queso Manchego Fud 180 grs",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Saba Bue. Noches Desp. 6/24 (669)",
+            "Precio": "61.70"
+        },
+        {
+            "Descripcion": "Sandia Baby 2.460 gr",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Savile 12/700 ml Sh Ace. Esenci",
+            "Precio": "37.45"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena luz, pero algunos precios y datos están parcialmente borrosos o difíciles de leer. No se detecta el total, monto pagado ni cambio."
+}

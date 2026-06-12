@@ -1,0 +1,135 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "1 BOL ARROZ MORELOS 10 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "1 PTE ARROZ SCHETTINO 1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "1 BOL AVENA GRANEL 1/20 KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "1 KG AZUCAR STAN. 5 KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "1 BOL CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "1 PZA CANELITAS EX 120 GR",
+            "Precio": "15.00"
+        },
+        {
+            "Descripcion": "1 PZA CHIPILO MANTEQUILLA 225 GR",
+            "Precio": "52.00"
+        },
+        {
+            "Descripcion": "1 PZA COLGATE TRIPLE ACCION WHITE",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "2 PZA DORITOS NACHOS 223GRS FAMILIA",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "1.010 KG FRIJOL JOYA F.E MAYO 1/25 KG",
+            "Precio": "21.00"
+        },
+        {
+            "Descripcion": "2 BOL GOOD ANIMALS 15/1KG",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "2 PZA GAMESA MARIAS CLASICAS 27GR",
+            "Precio": "16.00"
+        },
+        {
+            "Descripcion": "3 PZA GRISI JABON 140 GR NEUTRO",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "1 PTE HARINA FUJI 200 GR",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "1 PZA HUEVO CALVARIO GRANES",
+            "Precio": "27.50"
+        },
+        {
+            "Descripcion": "3 PTE KOTEX CLAS.NATAC.O 12/PZA",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "1 BOL LAGGS HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "1 PZA LECHE DESLACTOSADA BOVE LT",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "1 PZA MINI PINGUINO 10/280 GR",
+            "Precio": "18.00"
+        },
+        {
+            "Descripcion": "1 BOL MOLE ROJO MEXICANO EX/500 GR",
+            "Precio": "43.00"
+        },
+        {
+            "Descripcion": "1 PZA NATURE HEART TE SURTIDO 6/20 GR",
+            "Precio": "20.00"
+        },
+        {
+            "Descripcion": "1 PZA POLLO ROSTIZADO KG",
+            "Precio": "36.00"
+        },
+        {
+            "Descripcion": "1 EXH POLVORONES EXH 12/37 GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO CREMA PHILADELPHIA 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "1 PZA QUESO MANCHEGO FUD 180GR",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "2 PTE SABA ULTRA NOCHES DESP.6/24",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "2.460 GRM SANDIA BABY",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "2 PZA SAVILE 12/700 ML SH ACE. ESCENCI",
+            "Precio": "74.90"
+        },
+        {
+            "Descripcion": "1 PZA SEDAL 12/620ML SH ANTINUOS",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "2 PZA SEDAL 12/650 SH RIZOS DEFINIDO",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "1 PZA SERVILLETA CUAD.MAXIMA",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 80,
+    "Notas_Confianza": "La imagen tiene buena calidad general, pero algunos precios y datos están parcialmente borrosos o difíciles de leer. No se detecta el total, monto pagado ni cambio."
+}

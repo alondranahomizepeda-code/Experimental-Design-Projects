@@ -1,0 +1,147 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "4PACK DOVE ORIGINAL 12/4/90 GR",
+            "Precio": "96.00"
+        },
+        {
+            "Descripcion": "ACEITE CANOLI 12/946 ML",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "ARROZ MORELOS 10/1 KG TRAD INSUR",
+            "Precio": "32.40"
+        },
+        {
+            "Descripcion": "ARROZ SCHETTINO 10/1 KG SUPER EX",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "AVENA GRANDE 1/20 KG",
+            "Precio": "17.68"
+        },
+        {
+            "Descripcion": "AZUCAR STAN. 5KG",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "CAFE LEGAL 24/200GR TRAD BOLSA",
+            "Precio": "56.00"
+        },
+        {
+            "Descripcion": "CANELITAS EXH 12/30 GR",
+            "Precio": "25.00"
+        },
+        {
+            "Descripcion": "CHIPILO MANTEQUILLA 225 GR",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "COLGATE TRIPLE ACCION WHITE 48/1",
+            "Precio": "105.60"
+        },
+        {
+            "Descripcion": "DORITOS NACHOS 223GRS FAMILIAR",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "FRIJOL JOYA P.F DE MAYO 1/25 KG",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "GOD ANIMALS 12/177 GR",
+            "Precio": "14.90"
+        },
+        {
+            "Descripcion": "GAMESA MARIAS CLASICAS 20/177 GR",
+            "Precio": "19.00"
+        },
+        {
+            "Descripcion": "JABON IRIS 10/4/150 GR ESCALA",
+            "Precio": "213.30"
+        },
+        {
+            "Descripcion": "HARINA DE TRIGO SAN ANTONIO",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "HUEVO GRANEL 12/1",
+            "Precio": "71.19"
+        },
+        {
+            "Descripcion": "KOTEX ANAT.10/1",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "HELADO DURAZNO MARACUYA",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "LECHE BOVE ENTERA 12/1.0",
+            "Precio": "29.67"
+        },
+        {
+            "Descripcion": "LECHE DESLACTOSADA 12/1LT",
+            "Precio": "31.00"
+        },
+        {
+            "Descripcion": "LECHERA 48/375GR ABRE FACIL",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "GRM MAIZ PALOMERO 1/20 KG 43/44 EXP",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "MINI PINGUINO 10/8/200 GR",
+            "Precio": "32.00"
+        },
+        {
+            "Descripcion": "MOLE ROJO MEXIQUENSE 20/500 GR",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "NATURE HEART DE SURTIDO 6/20/20",
+            "Precio": "49.00"
+        },
+        {
+            "Descripcion": "POLLO ROSTIZADO KG",
+            "Precio": "47.42"
+        },
+        {
+            "Descripcion": "POLVORONES EXH 12/37 GR",
+            "Precio": "32.00"
+        },
+        {
+            "Descripcion": "CREMA PHILADELPHIA 180GR",
+            "Precio": "84.00"
+        },
+        {
+            "Descripcion": "QUESO MANCHEGO FUD 180GRS",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "SABA BUE.NOCHE DES.6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "GRM SANDIA BABY",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "SAVILE 12/700 ML SH ACE. ESCENC",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "SEDAL 12/620ML SH ANTINUDOS",
+            "Precio": "60.10"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos precios y datos están parcialmente legibles debido a la resolución y el tamaño del texto."
+}

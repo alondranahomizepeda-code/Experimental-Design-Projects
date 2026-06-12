@@ -1,0 +1,135 @@
+{
+    "Nombre_Tienda": "Garis",
+    "Productos_Comprados": [
+        {
+            "Descripcion": "Bol Arroz Morelos 10 Kg Trad Insur",
+            "Precio": "37.60"
+        },
+        {
+            "Descripcion": "Pte Arroz Schettino 1 Kg Super Ex",
+            "Precio": "16.20"
+        },
+        {
+            "Descripcion": "Bol Avena Granel",
+            "Precio": "17.68"
+        },
+        {
+            "Descripcion": "Kg Azucar Stan. 5 Kg",
+            "Precio": "121.00"
+        },
+        {
+            "Descripcion": "Bol Cafe Legal 240 Gr Trad Bolsa",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Canellitas Exh 120 Grs.",
+            "Precio": "13.50"
+        },
+        {
+            "Descripcion": "Pza Chipilo Mantequilla 225 Grs.",
+            "Precio": "55.00"
+        },
+        {
+            "Descripcion": "Pza Colgate Triple Accion White 48/1",
+            "Precio": "35.20"
+        },
+        {
+            "Descripcion": "Pza Nachos 223 Grs Familiar",
+            "Precio": "54.90"
+        },
+        {
+            "Descripcion": "Kg Frijol Joya F. De Mayo 1.25 Kg",
+            "Precio": "35.00"
+        },
+        {
+            "Descripcion": "Bol G Mod Animalitos 5 Kg",
+            "Precio": "110.00"
+        },
+        {
+            "Descripcion": "Pza Galletas Marias Clas 177 Gr",
+            "Precio": "15.00"
+        },
+        {
+            "Descripcion": "Pza Grisi Jabon 140 Gr Neutro",
+            "Precio": "71.10"
+        },
+        {
+            "Descripcion": "Pza Huevo Calvario Granel",
+            "Precio": "102.50"
+        },
+        {
+            "Descripcion": "Pza Jamon Virginia Fud 290 Grs.",
+            "Precio": "78.00"
+        },
+        {
+            "Descripcion": "Pza Kotex Clas. Anat. C/A 10 Pza.",
+            "Precio": "48.00"
+        },
+        {
+            "Descripcion": "Bol Laggs Te Helado Durazno Maracuya",
+            "Precio": "74.50"
+        },
+        {
+            "Descripcion": "Pza Leche Deslactosada Bove 1 Lt.",
+            "Precio": "368.00"
+        },
+        {
+            "Descripcion": "Pza Lechera 48/375 Gr Abre Facil",
+            "Precio": "29.50"
+        },
+        {
+            "Descripcion": "Pza Mole Rojo Mexiquense 200/500 Gr.",
+            "Precio": "43.40"
+        },
+        {
+            "Descripcion": "Pza Nature Heart Te Surtid 16/20/20",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Pollo Rostizado Kg.",
+            "Precio": "122.00"
+        },
+        {
+            "Descripcion": "Exh Polvorones Exh 12/37 Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Crema Philadelphia 180 Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pza Queso Manchego Fud 180 Grs.",
+            "Precio": "42.00"
+        },
+        {
+            "Descripcion": "Pte Saba Bue. Noches Desp. 6/24 (669)",
+            "Precio": "185.10"
+        },
+        {
+            "Descripcion": "Grm Sandia Baby",
+            "Precio": "88.56"
+        },
+        {
+            "Descripcion": "Pza Savile 12/700 Ml Sh Ace. Escenci",
+            "Precio": "37.45"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/620 Ml Sh Antinuidos",
+            "Precio": "60.10"
+        },
+        {
+            "Descripcion": "Pza Sedal 12/620 Ml Sh Rizos Definido",
+            "Precio": "120.20"
+        },
+        {
+            "Descripcion": "Pza Servilleta Cuad. Maxima 150 Pz",
+            "Precio": "42.00"
+        }
+    ],
+    "Total_a_Pagar": "No detectado",
+    "Monto_Pagado": "No detectado",
+    "Cambio": "No detectado",
+    "Confianza_Lectura": 85,
+    "Calidad_Luz": 90,
+    "Notas_Confianza": "La imagen tiene buena iluminación, pero algunos datos están parcialmente visibles o cortados, lo que dificulta la lectura completa del ticket."
+}
